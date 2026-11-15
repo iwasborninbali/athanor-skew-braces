@@ -1,0 +1,34 @@
+PROGRAM enumerate.py from-scratch regular-subgroup enumeration
+START C13 13
+DONE C13 1 aut 12 quaternion 0 mul abelian 1 two-sided 1 associative-not-two-sided 0 elapsed 0.004
+ORDER 13 s(n) 1 b(n) 1
+START C2xC7 14
+DONE C2xC7 2 aut 6 quaternion 0 mul abelian 1 two-sided 1 associative-not-two-sided 0 elapsed 0.007
+START D14 14
+DONE D14 4 aut 42 quaternion 0 mul abelian 2 two-sided 4 associative-not-two-sided 0 elapsed 0.072
+ORDER 14 s(n) 6 b(n) 2
+START C3xC5 15
+DONE C3xC5 1 aut 8 quaternion 0 mul abelian 1 two-sided 1 associative-not-two-sided 0 elapsed 0.076
+ORDER 15 s(n) 1 b(n) 1
+START C2xC2xC5 20
+DONE C2xC2xC5 5 aut 24 quaternion 1 mul abelian 2 two-sided 2 associative-not-two-sided 0 elapsed 0.162
+START C4xC5 20
+DONE C4xC5 6 aut 8 quaternion 1 mul abelian 2 two-sided 2 associative-not-two-sided 0 elapsed 0.201
+START D20 20
+DONE D20 12 aut 40 quaternion 2 mul abelian 4 two-sided 8 associative-not-two-sided 0 elapsed 0.586
+START Q20 20
+DONE Q20 12 aut 40 quaternion 2 mul abelian 4 two-sided 8 associative-not-two-sided 0 elapsed 0.924
+START C5rt4_2 20
+DONE C5rt4_2 8 aut 20 quaternion 2 mul abelian 2 two-sided 4 associative-not-two-sided 0 elapsed 1.008
+ORDER 20 s(n) 43 b(n) 11
+START C3xC7 21
+DONE C3xC7 2 aut 12 quaternion 0 mul abelian 1 two-sided 1 associative-not-two-sided 0 elapsed 1.022
+START C7rt3_2 21
+DONE C7rt3_2 6 aut 42 quaternion 0 mul abelian 2 two-sided 4 associative-not-two-sided 0 elapsed 1.198
+ORDER 21 s(n) 8 b(n) 2
+START C2xC11 22
+DONE C2xC11 2 aut 10 quaternion 0 mul abelian 1 two-sided 1 associative-not-two-sided 0 elapsed 1.21
+START D22 22
+DONE D22 4 aut 110 quaternion 0 mul abelian 2 two-sided 4 associative-not-two-sided 0 elapsed 2.463
+ORDER 22 s(n) 6 b(n) 2
+SUCCESS output results-more.json

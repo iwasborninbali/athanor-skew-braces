@@ -1,0 +1,9 @@
+START D16
+DONE D16 80 hits 0 elapsed 0.468
+START Q16
+DONE Q16 80 hits 0 elapsed 0.939
+START C8rt2_3
+DONE C8rt2_3 144 hits 0 elapsed 1.416
+START C8rt2_5
+DONE C8rt2_5 66 hits 4 elapsed 1.719
+WITNESS C8rt2_5 4 first witness saved
