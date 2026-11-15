@@ -1,0 +1,7 @@
+n 16 addition nonabelian True
+both group axioms PASS; skew left brace PASS; associative star PASS
+right brace identity FAIL witness (a,b,c) (1, 1, 1)
+right-law left 3 right 7
+YBE braid relation PASS for 4096 triples; nondegenerate PASS
+r involutive? False
+INDEPENDENT CHECK SUCCESS
