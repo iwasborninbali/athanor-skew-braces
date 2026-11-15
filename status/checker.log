@@ -1,0 +1,3 @@
+PASS n=2 count=1 identity/associativity/brace/isomorphism
+PASS n=3 count=1 identity/associativity/brace/isomorphism
+PASS n=4 count=2 identity/associativity/brace/isomorphism

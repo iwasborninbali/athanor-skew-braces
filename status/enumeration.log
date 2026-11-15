@@ -1,0 +1,3 @@
+{"additive_aut_conjugacy_classes":1,"holomorph_order":2,"n":2,"regular_subgroups":1,"witnesses":[{"affine_subgroup":[[0,1],[1,1]],"circle":[[0,1],[1,0]]}]}
+{"additive_aut_conjugacy_classes":1,"holomorph_order":6,"n":3,"regular_subgroups":1,"witnesses":[{"affine_subgroup":[[0,1],[1,1],[2,1]],"circle":[[0,1,2],[1,2,0],[2,0,1]]}]}
+{"additive_aut_conjugacy_classes":2,"holomorph_order":8,"n":4,"regular_subgroups":2,"witnesses":[{"affine_subgroup":[[0,1],[1,1],[2,1],[3,1]],"circle":[[0,1,2,3],[1,2,3,0],[2,3,0,1],[3,0,1,2]]},{"affine_subgroup":[[0,1],[1,3],[2,1],[3,3]],"circle":[[0,1,2,3],[1,0,3,2],[2,3,0,1],[3,2,1,0]]}]}
