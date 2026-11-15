@@ -1,0 +1,90 @@
+ENV 3.13.5 Linux-6.18.57-x86_64-with-glibc2.41 max_h 30 max_d 10 seconds 1200
+GROUP 1 C1 {"attempted": 0, "aut": 1, "braces": 1, "classical": 1, "independent_D": {"classes": 1, "passing_maps": 1, "transport_maps": 1}, "partials": 0, "seconds": 0.0, "subgroups": 1, "two_sided": 1}
+ORDER 1 {"left": 1, "skew": 1, "two": 1} MATCH
+GROUP 2 C2 {"attempted": 1, "aut": 1, "braces": 1, "classical": 1, "independent_D": {"classes": 1, "passing_maps": 1, "transport_maps": 1}, "partials": 1, "seconds": 0.0, "subgroups": 1, "two_sided": 1}
+ORDER 2 {"left": 1, "skew": 1, "two": 1} MATCH
+GROUP 3 C3 {"attempted": 4, "aut": 2, "braces": 1, "classical": 1, "independent_D": {"classes": 1, "passing_maps": 2, "transport_maps": 2}, "partials": 1, "seconds": 0.0, "subgroups": 1, "two_sided": 1}
+ORDER 3 {"left": 1, "skew": 1, "two": 1} MATCH
+GROUP 4 C2xC2 {"attempted": 42, "aut": 6, "braces": 2, "classical": 2, "independent_D": {"classes": 2, "passing_maps": 12, "transport_maps": 12}, "partials": 3, "seconds": 0.0, "subgroups": 2, "two_sided": 2}
+GROUP 4 C4 {"attempted": 18, "aut": 2, "braces": 2, "classical": 2, "independent_D": {"classes": 2, "passing_maps": 8, "transport_maps": 12}, "partials": 4, "seconds": 0.0, "subgroups": 2, "two_sided": 2}
+ORDER 4 {"left": 4, "skew": 4, "two": 4} MATCH
+GROUP 5 C5 {"attempted": 16, "aut": 4, "braces": 1, "classical": 1, "independent_D": {"classes": 1, "passing_maps": 4, "transport_maps": 24}, "partials": 1, "seconds": 0.0, "subgroups": 1, "two_sided": 1}
+ORDER 5 {"left": 1, "skew": 1, "two": 1} MATCH
+GROUP 6 C6 {"attempted": 48, "aut": 2, "braces": 2, "classical": 2, "independent_D": {"classes": 2, "passing_maps": 8, "transport_maps": 240}, "partials": 6, "seconds": 0.001, "subgroups": 2, "two_sided": 1}
+GROUP 6 D6 {"attempted": 156, "aut": 6, "braces": 4, "classical": 0, "independent_D": {"classes": 4, "passing_maps": 24, "transport_maps": 240}, "partials": 7, "seconds": 0.002, "subgroups": 4, "two_sided": 0}
+ORDER 6 {"left": 2, "skew": 6, "two": 1} MATCH
+GROUP 7 C7 {"attempted": 36, "aut": 6, "braces": 1, "classical": 1, "independent_D": {"classes": 1, "passing_maps": 6, "transport_maps": 720}, "partials": 1, "seconds": 0.002, "subgroups": 1, "two_sided": 1}
+ORDER 7 {"left": 1, "skew": 1, "two": 1} MATCH
+GROUP 8 C2xC2xC2 {"attempted": 10920, "aut": 168, "braces": 8, "classical": 8, "independent_D": {"classes": 8, "passing_maps": 3360, "transport_maps": 25200}, "partials": 14, "seconds": 0.697, "subgroups": 8, "two_sided": 7}
+GROUP 8 C4xC2 {"attempted": 1208, "aut": 8, "braces": 14, "classical": 14, "independent_D": {"classes": 14, "passing_maps": 576, "transport_maps": 25200}, "partials": 32, "seconds": 0.065, "subgroups": 14, "two_sided": 12}
+GROUP 8 C8 {"attempted": 308, "aut": 4, "braces": 5, "classical": 5, "independent_D": {"classes": 5, "passing_maps": 56, "transport_maps": 25200}, "partials": 15, "seconds": 0.05, "subgroups": 5, "two_sided": 3}
+GROUP 8 D8 {"attempted": 888, "aut": 8, "braces": 12, "classical": 0, "independent_D": {"classes": 12, "passing_maps": 496, "transport_maps": 25200}, "partials": 23, "seconds": 0.061, "subgroups": 12, "two_sided": 0}
+GROUP 8 Dic8 {"attempted": 1752, "aut": 24, "braces": 8, "classical": 0, "independent_D": {"classes": 8, "passing_maps": 528, "transport_maps": 25200}, "partials": 15, "seconds": 0.073, "subgroups": 8, "two_sided": 0}
+ORDER 8 {"left": 27, "skew": 47, "two": 22} MATCH
+GROUP 9 C3xC3 {"attempted": 1248, "aut": 48, "braces": 2, "classical": 2, "independent_D": {"classes": 2, "passing_maps": 432, "transport_maps": 80640}, "partials": 4, "seconds": 0.188, "subgroups": 2, "two_sided": 2}
+GROUP 9 C9 {"attempted": 120, "aut": 6, "braces": 2, "classical": 2, "independent_D": {"classes": 2, "passing_maps": 18, "transport_maps": 80640}, "partials": 3, "seconds": 0.162, "subgroups": 2, "two_sided": 2}
+ORDER 9 {"left": 4, "skew": 4, "two": 4} MATCH
+GROUP 10 C10 {"attempted": 184, "aut": 4, "braces": 2, "classical": 2, "independent_D": {"classes": 2, "passing_maps": 24, "transport_maps": 725760}, "partials": 6, "seconds": 1.442, "subgroups": 2, "two_sided": 1}
+GROUP 10 D10 {"attempted": 1160, "aut": 20, "braces": 4, "classical": 0, "independent_D": {"classes": 4, "passing_maps": 80, "transport_maps": 725760}, "partials": 9, "seconds": 1.488, "subgroups": 4, "two_sided": 0}
+ORDER 10 {"left": 2, "skew": 6, "two": 1} MATCH
+GROUP 11 C11 {"attempted": 100, "aut": 10, "braces": 1, "classical": 1, "partials": 1, "seconds": 0.002, "subgroups": 1, "two_sided": 1}
+ORDER 11 {"left": 1, "skew": 1, "two": 1} MATCH
+GROUP 12 A4 {"attempted": 6096, "aut": 24, "braces": 8, "classical": 0, "partials": 31, "seconds": 0.051, "subgroups": 8, "two_sided": 0}
+GROUP 12 C12 {"attempted": 1080, "aut": 4, "braces": 5, "classical": 5, "partials": 32, "quaternion_multiplicative": 1, "seconds": 0.013, "subgroups": 5, "two_sided": 2}
+GROUP 12 C6xC2 {"attempted": 2988, "aut": 12, "braces": 5, "classical": 5, "partials": 30, "quaternion_multiplicative": 1, "seconds": 0.02, "subgroups": 5, "two_sided": 2}
+GROUP 12 D12 {"attempted": 3864, "aut": 12, "braces": 10, "classical": 0, "partials": 41, "seconds": 0.034, "subgroups": 10, "two_sided": 0}
+GROUP 12 Dic12 {"attempted": 3864, "aut": 12, "braces": 10, "classical": 0, "partials": 41, "seconds": 0.033, "subgroups": 10, "two_sided": 0}
+QUAT 12 2 PREDICTED 2 MATCH
+ORDER 12 {"left": 10, "q(4m)": 2, "skew": 38, "two": 4} MATCH
+GROUP 13 C13 {"attempted": 144, "aut": 12, "braces": 1, "classical": 1, "partials": 1, "seconds": 0.001, "subgroups": 1, "two_sided": 1}
+ORDER 13 {"left": 1, "skew": 1, "two": 1} MATCH
+GROUP 14 C14 {"attempted": 408, "aut": 6, "braces": 2, "classical": 2, "partials": 6, "seconds": 0.003, "subgroups": 2, "two_sided": 1}
+GROUP 14 D14 {"attempted": 4116, "aut": 42, "braces": 4, "classical": 0, "partials": 11, "seconds": 0.027, "subgroups": 4, "two_sided": 0}
+ORDER 14 {"left": 2, "skew": 6, "two": 1} MATCH
+GROUP 15 C15 {"attempted": 288, "aut": 8, "braces": 1, "classical": 1, "partials": 3, "seconds": 0.002, "subgroups": 1, "two_sided": 1}
+ORDER 15 {"left": 1, "skew": 1, "two": 1} MATCH
+GROUP 17 C17 {"attempted": 256, "aut": 16, "braces": 1, "classical": 1, "partials": 1, "seconds": 0.004, "subgroups": 1, "two_sided": 1}
+ORDER 17 {"left": 1, "skew": 1, "two": 1} MATCH
+GROUP 18 C18 {"attempted": 1470, "aut": 6, "braces": 3, "classical": 3, "partials": 18, "seconds": 0.015, "subgroups": 3, "two_sided": 2}
+GROUP 18 C3xC3xC2 {"attempted": 18432, "aut": 48, "braces": 5, "classical": 5, "partials": 29, "seconds": 0.127, "subgroups": 5, "two_sided": 2}
+GROUP 18 D18 {"attempted": 19926, "aut": 54, "braces": 6, "classical": 0, "partials": 31, "seconds": 0.213, "subgroups": 6, "two_sided": 0}
+GROUP 18 D6xC3 {"attempted": 9012, "aut": 12, "braces": 12, "classical": 0, "partials": 58, "seconds": 0.074, "subgroups": 12, "two_sided": 0}
+GROUP 18 Dih(C3xC3) {"attempted": 327024, "aut": 432, "braces": 23, "classical": 0, "partials": 64, "seconds": 14.392, "subgroups": 23, "two_sided": 0}
+ORDER 18 {"left": 8, "skew": 49, "two": 4} MATCH
+GROUP 19 C19 {"attempted": 324, "aut": 18, "braces": 1, "classical": 1, "partials": 1, "seconds": 0.004, "subgroups": 1, "two_sided": 1}
+ORDER 19 {"left": 1, "skew": 1, "two": 1} MATCH
+GROUP 20 C10xC2 {"attempted": 11376, "aut": 24, "braces": 5, "classical": 5, "partials": 30, "quaternion_multiplicative": 1, "seconds": 0.07, "subgroups": 5, "two_sided": 2}
+GROUP 20 C20 {"attempted": 4896, "aut": 8, "braces": 6, "classical": 6, "partials": 39, "quaternion_multiplicative": 1, "seconds": 0.037, "subgroups": 6, "two_sided": 2}
+GROUP 20 D20 {"attempted": 32080, "aut": 40, "braces": 12, "classical": 0, "partials": 58, "seconds": 0.245, "subgroups": 12, "two_sided": 0}
+GROUP 20 Dic20 {"attempted": 32080, "aut": 40, "braces": 12, "classical": 0, "partials": 58, "seconds": 0.242, "subgroups": 12, "two_sided": 0}
+GROUP 20 F20 {"attempted": 6640, "aut": 20, "braces": 8, "classical": 0, "partials": 22, "seconds": 0.067, "subgroups": 8, "two_sided": 0}
+QUAT 20 2 PREDICTED 2 MATCH
+ORDER 20 {"left": 11, "q(4m)": 2, "skew": 43, "two": 4} MATCH
+GROUP 21 C21 {"attempted": 1272, "aut": 12, "braces": 2, "classical": 2, "partials": 6, "seconds": 0.011, "subgroups": 2, "two_sided": 1}
+GROUP 21 F21 {"attempted": 8736, "aut": 42, "braces": 6, "classical": 0, "partials": 13, "seconds": 0.098, "subgroups": 6, "two_sided": 0}
+ORDER 21 {"left": 2, "skew": 8, "two": 1} MATCH
+GROUP 22 C22 {"attempted": 1120, "aut": 10, "braces": 2, "classical": 2, "partials": 6, "seconds": 0.011, "subgroups": 2, "two_sided": 1}
+GROUP 22 D22 {"attempted": 22220, "aut": 110, "braces": 4, "classical": 0, "partials": 15, "seconds": 0.224, "subgroups": 4, "two_sided": 0}
+ORDER 22 {"left": 2, "skew": 6, "two": 1} MATCH
+GROUP 23 C23 {"attempted": 484, "aut": 22, "braces": 1, "classical": 1, "partials": 1, "seconds": 0.008, "subgroups": 1, "two_sided": 1}
+ORDER 23 {"left": 1, "skew": 1, "two": 1} MATCH
+GROUP 25 C25 {"attempted": 1280, "aut": 20, "braces": 2, "classical": 2, "partials": 3, "seconds": 0.023, "subgroups": 2, "two_sided": 2}
+GROUP 25 C5xC5 {"attempted": 40320, "aut": 480, "braces": 2, "classical": 2, "partials": 4, "seconds": 1.674, "subgroups": 2, "two_sided": 2}
+ORDER 25 {"left": 4, "skew": 4, "two": 4} MATCH
+GROUP 26 C26 {"attempted": 1608, "aut": 12, "braces": 2, "classical": 2, "partials": 6, "seconds": 0.02, "subgroups": 2, "two_sided": 1}
+GROUP 26 D26 {"attempted": 41496, "aut": 156, "braces": 4, "classical": 0, "partials": 17, "seconds": 0.582, "subgroups": 4, "two_sided": 0}
+ORDER 26 {"left": 2, "skew": 6, "two": 1} MATCH
+GROUP 28 C14xC2 {"attempted": 19872, "aut": 36, "braces": 4, "classical": 4, "partials": 24, "quaternion_multiplicative": 1, "seconds": 0.162, "subgroups": 4, "two_sided": 2}
+GROUP 28 C28 {"attempted": 8760, "aut": 12, "braces": 5, "classical": 5, "partials": 32, "quaternion_multiplicative": 1, "seconds": 0.095, "subgroups": 5, "two_sided": 2}
+GROUP 28 D28 {"attempted": 96264, "aut": 84, "braces": 10, "classical": 0, "partials": 61, "seconds": 0.995, "subgroups": 10, "two_sided": 0}
+GROUP 28 Dic28 {"attempted": 96264, "aut": 84, "braces": 10, "classical": 0, "partials": 61, "seconds": 1.014, "subgroups": 10, "two_sided": 0}
+QUAT 28 2 PREDICTED 2 MATCH
+ORDER 28 {"left": 9, "q(4m)": 2, "skew": 29, "two": 4} MATCH
+GROUP 29 C29 {"attempted": 784, "aut": 28, "braces": 1, "classical": 1, "partials": 1, "seconds": 0.014, "subgroups": 1, "two_sided": 1}
+ORDER 29 {"left": 1, "skew": 1, "two": 1} MATCH
+GROUP 30 C30 {"attempted": 6720, "aut": 8, "braces": 4, "classical": 4, "partials": 34, "seconds": 0.072, "subgroups": 4, "two_sided": 1}
+GROUP 30 D10xC3 {"attempted": 45920, "aut": 40, "braces": 8, "classical": 0, "partials": 51, "seconds": 0.384, "subgroups": 8, "two_sided": 0}
+GROUP 30 D30 {"attempted": 168960, "aut": 120, "braces": 16, "classical": 0, "partials": 65, "seconds": 3.249, "subgroups": 16, "two_sided": 0}
+GROUP 30 D6xC5 {"attempted": 24960, "aut": 24, "braces": 8, "classical": 0, "partials": 43, "seconds": 0.232, "subgroups": 8, "two_sided": 0}
+ORDER 30 {"left": 4, "skew": 36, "two": 1} MATCH
+FINISHED 29.422 seconds {"1": {"left": 1, "skew": 1, "two": 1}, "10": {"left": 2, "skew": 6, "two": 1}, "11": {"left": 1, "skew": 1, "two": 1}, "12": {"left": 10, "q(4m)": 2, "skew": 38, "two": 4}, "13": {"left": 1, "skew": 1, "two": 1}, "14": {"left": 2, "skew": 6, "two": 1}, "15": {"left": 1, "skew": 1, "two": 1}, "17": {"left": 1, "skew": 1, "two": 1}, "18": {"left": 8, "skew": 49, "two": 4}, "19": {"left": 1, "skew": 1, "two": 1}, "2": {"left": 1, "skew": 1, "two": 1}, "20": {"left": 11, "q(4m)": 2, "skew": 43, "two": 4}, "21": {"left": 2, "skew": 8, "two": 1}, "22": {"left": 2, "skew": 6, "two": 1}, "23": {"left": 1, "skew": 1, "two": 1}, "25": {"left": 4, "skew": 4, "two": 4}, "26": {"left": 2, "skew": 6, "two": 1}, "28": {"left": 9, "q(4m)": 2, "skew": 29, "two": 4}, "29": {"left": 1, "skew": 1, "two": 1}, "3": {"left": 1, "skew": 1, "two": 1}, "30": {"left": 4, "skew": 36, "two": 1}, "4": {"left": 4, "skew": 4, "two": 4}, "5": {"left": 1, "skew": 1, "two": 1}, "6": {"left": 2, "skew": 6, "two": 1}, "7": {"left": 1, "skew": 1, "two": 1}, "8": {"left": 27, "skew": 47, "two": 22}, "9": {"left": 4, "skew": 4, "two": 4}}
