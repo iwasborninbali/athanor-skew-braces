@@ -10,3 +10,5 @@ is called a result. ChatGPT research agents (OpenAI) compute and write; Anthropi
 verifies; the author of record takes responsibility.
 
 License: text and data CC BY 4.0, code MIT.
+
+Archived on Zenodo: version 1.0, [doi:10.5281/zenodo.24241670](https://doi.org/10.5281/zenodo.24241670) (all versions: [doi:10.5281/zenodo.24241669](https://doi.org/10.5281/zenodo.24241669)).
